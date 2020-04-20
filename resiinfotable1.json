@@ -1,0 +1,39 @@
+{
+    "ausflug": [
+        {
+            "name": "Fischerhaus und Pfahlbauten Wangen",
+            "data": "UNESCO Weltkulturerbe",
+            "location": "100m von der Residenz"
+        },
+        {
+            "name": "Bootsstüble Wangen",
+            "data": "Bootsverleih, geführte Touren & Veranstaltungen",
+            "location": "20m über die Straße"
+        },
+        {
+            "name": "Fahrradverleih Rückenwind in Öhningen",
+            "data": "Fahrräder und E-Bikes zum mieten",
+            "location": "5 min mit dem Auto"
+        },
+        {
+            "name": "Stein am Rhein & Burg Hohenklingen",
+            "data": "Schönes altes Städchen, alte Burg mit schönem Ausblick",
+            "location": "10 min mit dem Auto"
+        },
+        {
+            "name": "Rheinfall Schaffhausen",
+            "data": "wasserreichster Wasserfall Europas",
+            "location": "30 min mit dem Auto"
+        },
+        {
+            "name": "Napoleonmuseum Schloss Arenenberg",
+            "data": "gegenüber der Reichenau thront das Schloss",
+            "location": "30 min mit dem Auto"
+        },
+        {
+            "name": "Hermann Hesse Museum Gaienhofen",
+            "data": "Schriftsteller und Literaturnobelpreisträger",
+            "location": "10 min mit dem Auto"
+        }
+    ]
+}
